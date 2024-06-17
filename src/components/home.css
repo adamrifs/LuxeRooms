@@ -269,7 +269,7 @@ body {
     font-weight: 700;
     color: #c7c7c6;
     /* margin-left: 100px; */
-    animation: slider 15s linear infinite;
+    animation: slider 12s linear infinite;
 }
 
 @keyframes slider {
