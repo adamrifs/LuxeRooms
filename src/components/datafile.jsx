@@ -36,7 +36,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa5
     },
     {
@@ -45,7 +45,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa6
     },
     {
@@ -54,7 +54,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa3
     },
     {
@@ -63,7 +63,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa4
     },
     {
@@ -72,7 +72,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa7
     },
     {
@@ -81,7 +81,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa8
     },
     {
@@ -90,7 +90,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa9
     },
     {
@@ -99,7 +99,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa10
     },
     {
@@ -108,7 +108,7 @@ export const furnitures = [
         heading:"LuxeRooms",
         description:'Inviting, plush sofa with sleek design. Crafted for comfort and style, featuring premium upholstery and sturdy construction. A statement piece for any home.',
         frname:'LuxeRooms',
-        lightimg: light1,
+        lightimg: '',
         furimage: sofa11
     },
 ]
