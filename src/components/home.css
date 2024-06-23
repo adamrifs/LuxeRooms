@@ -131,6 +131,7 @@ body {
     align-items: center;
     justify-content: space-between;
     /* overflow-y: hidden; */
+    border-bottom: 2px solid #706f6e;
 }
 .m-box::-webkit-scrollbar{
     width: 0;
@@ -168,7 +169,8 @@ body {
     font-weight: 700;
     margin: 0;
     opacity: 0;
-    animation: mb-head 1.2s ease forwards ;
+    animation: mb-head 1.5s ease forwards ;
+    animation-delay: 0.2s;
 }
 @keyframes mb-head {
     0%{
@@ -327,7 +329,7 @@ body {
     transform: rotate(270deg);
     font-size: 160px;
     font-weight: 700;
-    color: #c7c7c6;
+    color: #aeaeac;
     /* margin-left: 100px; */
     animation: slider 12s linear infinite;
 }

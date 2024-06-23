@@ -43,7 +43,7 @@ function Home() {
                 <div className="m-box">
 
                     {
-                        furniture.map((dt) =>
+                        furniture.map((dt,index) =>
                             <div className="m-sub-box">
 
                                 <div className="m-b-left-box">
@@ -60,11 +60,11 @@ function Home() {
                                     </div>
                                     <div className="mb-sizes">
                                         <h5>Sizes</h5>
-                                        <input type="radio" id='black' name='size' />
-                                        <label for='black'>Black</label>
+                                        <input type="radio" id={`black_${index}`} name={`size_${index}`} />
+                                        <label for={`black_${index}`}>Black</label>
 
-                                        <input type="radio" id='wood' name='size' />
-                                        <label for='wood'>Wood</label>
+                                        <input type="radio" id={`wood_${index}`} name={`size_${index}`} />
+                                        <label for={`wood_${index}`}>Wood</label>
                                     </div>
                                     <hr />
                                     <div className="mb-cart-btn">
