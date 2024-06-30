@@ -3,13 +3,13 @@ import './nav.css'
 import { FiSearch } from "react-icons/fi";
 import { IoBagHandleOutline } from "react-icons/io5";
 import { LuUser } from "react-icons/lu";
-
+import luxelogo from '../assets/luxeroomlogo.png'
 function Nav() {
     return (
         <div className="header">
             <div className="nav">
                 <div className="logo">
-                    Luxe
+                    <img src={luxelogo}/>
                 </div>
                 <div className="navlinks">
                     <ul>
